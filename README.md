@@ -1,3 +1,8 @@
+
+Este proyecto ha sido realizado como el Proyecto 3 del Bootcamp de Full Stack Developer en Geekshubs Academy, en el cual se propone un reto de lógica para resolver mediante código JavaScript.
+
+
+
 # Compra de empanadas
 
 ## Enunciado del problema
